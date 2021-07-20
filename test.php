@@ -8,6 +8,8 @@ class SimpleClass
     // method declaration
     public function displayVar(): void
     {
-        echo $this->name;
+        for ($count = 0; $count <= 10; $count++) {
+            echo $this->name;
+        }
     }
 }
