@@ -1,4 +1,4 @@
 # MyTestProject
 
 
-This is for Testing GrumPHP Code Quality Tool
+This is for Testing PHPStorm Code Quality Tool
