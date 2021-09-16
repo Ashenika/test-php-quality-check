@@ -18,10 +18,6 @@ class SimpleClass
     public function displayNum(): void
     {
         echo "This is a Number" . $this->number;
-        //my number
-        //comment on me..
-        //Downtown
-        //Without GIT?
         echo "WELCOME TO TECH-HUB!";
     }
 }
