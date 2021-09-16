@@ -22,5 +22,6 @@ class SimpleClass
         //comment on me..
         //Downtown
         //Without GIT?
+        echo "WELCOME TO TECH-HUB!";
     }
 }
